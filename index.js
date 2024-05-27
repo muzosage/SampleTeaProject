@@ -1,1 +1,1 @@
-console.log("Hello, Tea Protocol!");
+console.log('Hello world from test package');

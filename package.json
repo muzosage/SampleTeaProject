@@ -1,16 +1,25 @@
 {
   "name": "sampleteaproject",
-  "version": "1.0.0",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "string-calculator-vozneseo": "^1.0.3"
+  },
+  "version": "1.0.2",
+  "description": "Sample tea project test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "repository": {
+    "repository": {
     "type": "git",
     "url": "https://github.com/muzosage/SampleTeaProject"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/muzosage/SampleTeaProject/issues"
+  },
+  "homepage": "https://github.com/muzosage/SampleTeaProject#readme",
+  "author": "muzosage",
+  "license": "ISC"
 }
